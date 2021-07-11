@@ -1,2 +1,2 @@
 # Custom-Bosses
-Custom Boss Plugin built for AncientLands
+Custom Boss Plugin coded for AncientLands
